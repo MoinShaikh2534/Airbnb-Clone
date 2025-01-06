@@ -45,7 +45,7 @@ const Testimonials = () => {
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava01} className='w-25 h-25 rounded-2' alt="" />
 <div>
-    <h6 className='mb-0 mt-3'>John Doe</h6>
+    <h6 className='mb-0 mt-3'>Moin Shaikh</h6>
     <p>Customer</p>
 </div>
 </div>
@@ -60,7 +60,7 @@ const Testimonials = () => {
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
 <div>
-    <h6 className='mb-0 mt-3'>Lia Franklin</h6>
+    <h6 className='mb-0 mt-3'>Revati Khasnis</h6>
     <p>Customer</p>
 </div>
 </div>
@@ -75,7 +75,7 @@ const Testimonials = () => {
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
 <div>
-    <h6 className='mb-0 mt-3'>John Doe</h6>
+    <h6 className='mb-0 mt-3'>Azhan pathan</h6>
     <p>Customer</p>
 </div>
 </div>
@@ -90,7 +90,7 @@ const Testimonials = () => {
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
 <div>
-    <h6 className='mb-0 mt-3'>John Doe</h6>
+    <h6 className='mb-0 mt-3'>Aditya Mane</h6>
     <p>Customer</p>
 </div>
 </div>
@@ -105,7 +105,7 @@ const Testimonials = () => {
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
 <div>
-    <h6 className='mb-0 mt-3'>Lia Franklin</h6>
+    <h6 className='mb-0 mt-3'>Aliya Shaikh</h6>
     <p>Customer</p>
 </div>
 </div>
